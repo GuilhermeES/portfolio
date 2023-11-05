@@ -518,3 +518,9 @@ html{
         margin-top: 50px;
     }
 }
+
+@media(min-width:2560px) {
+    .swiper{
+        height: 720px;
+    }
+}
