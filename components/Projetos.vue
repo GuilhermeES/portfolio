@@ -59,7 +59,7 @@
                         <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                         <a href="https://triumcapital.com.br" target="_blank" class="projetos__link">
                             Acessar
-                            <img src="/img/arrow.png" alt="Acessar">
+                            <img src="/img/arrow.png" alt="">
                         </a>
                     </div>
                 </swiper-slide>
@@ -75,7 +75,7 @@
                         <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                         <a href="https://goodstorage.com.br/10-anos" target="_blank" class="projetos__link">
                             Acessar
-                            <img src="/img/arrow.png" alt="Acessar">
+                            <img src="/img/arrow.png" alt="">
                         </a>
                     </div>
                 </swiper-slide>
@@ -91,7 +91,7 @@
                         <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                         <a href="https://mbexperience.com.br/" target="_blank" class="projetos__link">
                             Acessar
-                            <img src="/img/arrow.png" alt="Acessar">
+                            <img src="/img/arrow.png" alt="">
                         </a>
                     </div>
                 </swiper-slide>
@@ -107,7 +107,7 @@
                         <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                         <a href="https://expandbrands.com.br/" target="_blank" class="projetos__link">
                             Acessar
-                            <img src="/img/arrow.png" alt="Acessar">
+                            <img src="/img/arrow.png" alt="">
                         </a>
                     </div>
                 </swiper-slide>
@@ -122,7 +122,7 @@
                         <h3>  Juliano Kuster Imóveis </h3>
                         <a href="https://julianokusterimoveis.com.br/" target="_blank" class="projetos__link">
                             Acessar
-                            <img src="/img/arrow.png" alt="Acessar">
+                            <img src="/img/arrow.png" alt="">
                         </a>
                     </div>
                 </swiper-slide>
@@ -137,7 +137,7 @@
                     <h3>  Strongest Supplements</h3>
                     <a href="https://strongest.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 </swiper-slide>

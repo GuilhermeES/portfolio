@@ -28,7 +28,7 @@
                     <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                     <a href="https://triumcapital.com.br" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -42,7 +42,7 @@
                     <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                     <a href="https://goodstorage.com.br/10-anos" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -56,7 +56,7 @@
                     <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                     <a href="https://mbexperience.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -70,7 +70,7 @@
                     <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                     <a href="https://expandbrands.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -83,7 +83,7 @@
                     <h3>  Juliano Kuster Imóveis </h3>
                     <a href="https://julianokusterimoveis.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -96,7 +96,7 @@
                     <h3>  Hospital dos Olhos da Serra </h3>
                     <a href="https://www.hos-sc.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -109,7 +109,7 @@
                     <h3>  Strongest Supplements</h3>
                     <a href="https://strongest.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -122,7 +122,7 @@
                     <h3>  Devetis </h3>
                     <a href="https://devetis.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
                 <div class="projetos__info">
@@ -135,7 +135,7 @@
                     <h3>  Beepay </h3>
                     <a href="https://beepayapp.com.br/" target="_blank" class="projetos__link">
                         Acessar
-                        <img src="/img/arrow.png" alt="Acessar">
+                        <img src="/img/arrow.png" alt="">
                     </a>
                 </div>
             </div>
