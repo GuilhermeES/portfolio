@@ -82,7 +82,7 @@ html{
         align-items: center;
         justify-content: center;
         gap: 10px;
-        width: 60px;
+        width: 50px;
 
         img{
             width: 25px;
@@ -423,6 +423,7 @@ html{
 }
 
 @media(max-width:600px) {
+
     .swiper{
         height: 470px
     }
@@ -436,6 +437,7 @@ html{
     .banner{
         padding-left: 15px;
         padding-right: 15px;
+        margin-bottom: 40px;
 
         &__titulo{
             font-size: 40px;
@@ -444,6 +446,8 @@ html{
     }
 
     .projetos{
+        padding-top: 20px;
+
         &__gui-img{
             display: none;
         }
@@ -483,6 +487,10 @@ html{
         h2{
             font-size: 32px;
         }
+    }
+
+    .sobre{
+        padding-top: 20px;
     }
 }
 

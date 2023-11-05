@@ -1,7 +1,7 @@
 <template>
     <section class="banner">
         <div class="banner__top">
-            👋 Olá, meu nome é Guilherme e sou
+            👋 Olá, meu nome é Guilherme
         </div>
         <h1 class="banner__titulo"> Desenvolvedor <br> Front-end </h1>
         <div class="banner__subtitulo">  
