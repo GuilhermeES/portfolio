@@ -19,6 +19,19 @@
             <div class="projetos-interna__list">
                 <div class="projetos__info">
                     <div class="projetos__header">
+                        <img src="/img/universal.png" alt="Trium" class="projetos__img">
+                        <div class="projetos__info-text">
+                            Front-end
+                        </div>
+                    </div>
+                    <h3> Universal Music Store | Blog </h3>
+                    <a href="https://blog.umusicstore.com" target="_blank" class="projetos__link">
+                        Acessar
+                        <img src="/img/arrow.png" alt="">
+                    </a>
+                </div>
+                <div class="projetos__info">
+                    <div class="projetos__header">
                         <img src="/img/trium_2.png" alt="Trium" class="projetos__img">
                         <div class="projetos__info-text">
                             Front-end
@@ -27,19 +40,6 @@
                     <h3> Trium Capital | XP Investimentos </h3>
                     <div class="designer"> Designer por : <a href="https://somocollab.com/" target="_blank"> Somo Collab </a> </div>
                     <a href="https://triumcapital.com.br" target="_blank" class="projetos__link">
-                        Acessar
-                        <img src="/img/arrow.png" alt="">
-                    </a>
-                </div>
-                <div class="projetos__info">
-                    <div class="projetos__header">
-                        <img src="/img/universal.png" alt="Trium" class="projetos__img">
-                        <div class="projetos__info-text">
-                            Front-end
-                        </div>
-                    </div>
-                    <h3> Universal Music Store | Blog </h3>
-                    <a href="https://blog.umusicstore.com" target="_blank" class="projetos__link">
                         Acessar
                         <img src="/img/arrow.png" alt="">
                     </a>
