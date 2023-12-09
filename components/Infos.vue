@@ -1,7 +1,7 @@
 <template>
     <section class="infos">
         <div class="infos__text">
-            Desenvolvimento front-end -
+            Desenvolvimento web -
         </div>
         <div class="infos__text">
             UI/UX -
@@ -16,7 +16,7 @@
             DESEMPENHO - 
         </div>
         <div class="infos__text">
-            Desenvolvimento front-end -
+            Desenvolvimento web -
         </div>
         <div class="infos__text">
             UI/UX -
@@ -31,7 +31,7 @@
             DESEMPENHO - 
         </div>
         <div class="infos__text">
-            Desenvolvimento front-end -
+            Desenvolvimento web -
         </div>
         <div class="infos__text">
             UI/UX -
@@ -46,7 +46,7 @@
             DESEMPENHO - 
         </div>
         <div class="infos__text">
-            Desenvolvimento front-end -
+            Desenvolvimento web -
         </div>
         <div class="infos__text">
             UI/UX -
@@ -61,7 +61,7 @@
             DESEMPENHO - 
         </div>
         <div class="infos__text">
-            Desenvolvimento front-end -
+            Desenvolvimento web -
         </div>
         <div class="infos__text">
             UI/UX -
@@ -76,7 +76,7 @@
             DESEMPENHO - 
         </div>
         <div class="infos__text">
-            Desenvolvimento front-end -
+            Desenvolvimento web -
         </div>
         <div class="infos__text">
             UI/UX -
